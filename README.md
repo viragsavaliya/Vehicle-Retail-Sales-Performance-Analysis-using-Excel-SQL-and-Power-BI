@@ -1,4 +1,4 @@
-# Classic-Vehicle-Models-sales-Analysis-suing-Excel-SQL-and-Power-BI
+# Vehicle-Retail-Sales-Performance-Analysis-using-Excel-SQL-and-Power-BI
 
 This repository contains comprehensive sales data analysis for Classic Vehicle Models, including Excel workbooks and SQL scripts for detailed breakdowns, as well as a sales dashboard for visual insights.
 
